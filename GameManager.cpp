@@ -8,7 +8,7 @@
 #include "./GameManager.h"
 #include "Airplane.hpp"
 //#include "EventManager.hpp"
-
+//
 static GameManager* m_pInstance = nullptr;
 
 GameManager* GameManager::getInstance()
